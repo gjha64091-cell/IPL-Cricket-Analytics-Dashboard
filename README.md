@@ -30,8 +30,6 @@ requirements.txt
 README.md
 data/ matches.csv & deliveries.csv
 
-▶ Run Project
-pip install -r requirements.txt
-streamlit run app.py
+▶ Run Project : pip install -r requirements.txt & streamlit run app.py
 
 👨‍💻 Author : Gautam Jha & Aspiring Data Analyst
