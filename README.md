@@ -8,7 +8,8 @@ in good form?" — but raw match data across 10 years is too large and unstructu
 quick decision-making. This project transforms 10 years of raw IPL data into an interactive, 
 self-serve dashboard that answers these questions instantly.
 
-Key Insight: - Analyzed 10 years of IPL data (2013–2024) across 15+ visualizations
+Key Insight: 
+- Analyzed 10 years of IPL data (2013–2024) across 15+ visualizations
 - Fully deployed as a live, public dashboard via Streamlit — not just static analysis, 
   but a usable product
 
